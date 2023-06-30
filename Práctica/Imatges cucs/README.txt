@@ -1,0 +1,1 @@
+A l'arxiu "WormData" hi ha la llista d'imatges i per cadascun s'indica si conté cucs vius o morts
